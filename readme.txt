@@ -5,4 +5,4 @@ Git tracks changes of files.
 
 Creating a new branch is quick
 
-手机
+creating a new Branch "feature1"
